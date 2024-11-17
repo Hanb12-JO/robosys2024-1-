@@ -1,0 +1,18 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2024 Abdelrahman Alhanbali <abdelrahman.alhanbali@gmail.com>
+
+import sys
+
+def tonum(s):
+    try:
+        return int(s)
+    except:
+        return float(s)
+
+
+num = 0
+for line in sys.stdin:
+    num = tonum(line)
+    ans = bin(num)
+print(ans[2:])
+      
