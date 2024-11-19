@@ -41,7 +41,7 @@ The below is example of output.
 ### Source code
 This project is licensed under the [BSD-3-Clause License](https://opensource.org/license/BSD-3-Clause).
 
-## Thanks to
+## Refrences
   * [Markdownライセンスバッジ](https://gist.github.com/LiuToki/c383dd2ffcf3d03b43bbf26bdf39332b)  
   * [[5分でマスター]初心者はまずREADMEを書け[テンプレート付き]](https://qiita.com/Canard_engineer_c_cpp/items/81ce4e53881138dbf37f)  
   * [Markdown記法と書き方](https://help.docbase.io/posts/13697)   
