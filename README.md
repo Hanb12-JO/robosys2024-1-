@@ -36,3 +36,9 @@ The below output is example.
 ```
 10101111
 ```
+
+## License
+### Source code
+This project is licensed under the [BSD-3-Clause License](https://opensource.org/license/BSD-3-Clause).
+
+## Thanks to 
