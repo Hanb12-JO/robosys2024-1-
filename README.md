@@ -13,27 +13,27 @@ This repository was created for robosys2024 lecture assignment 1, and it's  cont
 ## How to run the script
 #### 1. Use the following comand to clone this repository:
 
-```
+```bash
 $ git clone git@github.com:Hanb12-JO/robosys2024-assignment1.git  
 ```
 
 #### 2. Move to directory:
 
-```
+```bash
 $ cd robosys2024-assignment1
 ``` 
 
 #### 3. Run the Binary:
 175 is example of input number. 
 
-```
+```bash
 $ seq 175 | ./Binary 
 ```
 
 #### 4. The output:
 The below is example of output.
 
-```
+```bash
 10101111
 ```
 
