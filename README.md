@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Overview
-This repository was created for robosys2024 lecture assignment 1.This repository contains a Python script which converts the input decimal number to binary number. 
+This repository was created for robosys2024 lecture assignment 1, and it's  contains a Python script which converts the input decimal number to binary number. 
 
 ## Features
 ・Reads integers or floating-point numbers from standard input and converts the integer part to binary number.  
