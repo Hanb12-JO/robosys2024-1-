@@ -17,17 +17,22 @@ This repository was created for robosys2024 lecture assignment 1, and it's  cont
 $ git clone git@github.com:Hanb12-JO/robosys2024-assignment1.git  
 ```
 
-#### 2. Move to directory
+#### 2. Move to directory:
 
 ```
 $ cd robosys2024-assignment1
 ``` 
 
-#### 3. Run the Binary
+#### 3. Run the Binary:
 
 ```
-### 175 is example. 
+### 175 is example of input number. 
 $ seq 175 | ./Binary 
 ```
 
- 
+#### 4. The output:
+
+```
+### The below output is example.
+10101111
+```
