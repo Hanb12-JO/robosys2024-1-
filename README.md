@@ -11,19 +11,19 @@ This repository was created for robosys2024 lecture assignment 1, and it's  cont
 ・A simple and clear implementation using basic Python functions.  
 
 ## How to run the script
-### 1. Use the following comand to clone this repository:
+#### 1. Use the following comand to clone this repository:
 
 ```
 $ git clone git@github.com:Hanb12-JO/robosys2024-assignment1.git  
 ```
 
-### 2. Move to directory
+#### 2. Move to directory
 
 ```
 $ cd robosys2024-assignment1
 ``` 
 
-### 3. Run the Binary
+#### 3. Run the Binary
 
 ```
 ### 175 is example. 
