@@ -14,8 +14,20 @@ This repository was created for robosys2024 lecture assignment 1.This repository
 1. Use the following comand to clone this repository:
 
 ```
-$ git clone git@github.com:Hanb12-JO/robosys2024-assignment1.git
+$ git clone git@github.com:Hanb12-JO/robosys2024-assignment1.git  
+```
 
-2. Run the Binary_Numbers
+2. Move to directory
+
+```
+$ cd robosys2024-assignment1
+``` 
+
+3. Run the Binary
+
+```
+# 175 is example. 
+$ seq 175 | ./Binary 
+```
 
  
