@@ -24,15 +24,15 @@ $ cd robosys2024-assignment1
 ``` 
 
 #### 3. Run the Binary:
+175 is example of input number. 
 
 ```
-### 175 is example of input number. 
 $ seq 175 | ./Binary 
 ```
 
 #### 4. The output:
+The below output is example.
 
 ```
-### The below output is example.
 10101111
 ```
