@@ -11,6 +11,8 @@ This repository was created for the Robosys2024 lecture assignment 1. It contain
 * A simple and clear implementation using basic Python functions.  
 
 ## Require environment
+* ubuntu version after 20.04
+* WSL(Windows Subsystem for Linux) or WSL2
 
 
 ## How to run the script
