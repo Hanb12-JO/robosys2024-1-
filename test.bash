@@ -9,15 +9,15 @@ ng () {
 
 return=0
 	### NORMAL INPUT ###
-out=$(seq 1755 | ./Binary)
+out=$(seq 1755 | ./binary)
 [ "${out}" = 11011011011 ] || ng "$LINENO"
 	
 ### STRANGE INPUT ###
-out=$(echo あ| ./Binary)
+out=$(echo あ| ./binary)
 [ "$?" = 1 ] || ng "$LINENO"	
 [ "${out}" = "" ] || ng "$LINENO"
  
-out=$(echo | ./Binary)
+out=$(echo | ./binary)
 [ "$?" = 1 ] || ng "$LINENO"	
 [ "${out}" = "" ] || ng "$LINENO"
 
