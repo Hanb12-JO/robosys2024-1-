@@ -7,8 +7,11 @@
 This repository was created for the Robosys2024 lecture assignment 1. It contains a Python script that converts an input decimal number to binary number. 
 
 ## Features
-・Reads integers or floating-point numbers from standard input and converts the integer part to binary number.  
-・A simple and clear implementation using basic Python functions.  
+* Reads integers or floating-point numbers from standard input and converts the integer part to binary number.  
+* A simple and clear implementation using basic Python functions.  
+
+## Operating environment
+
 
 ## How to run the script
 #### 1. Use the following command to clone this repository:
