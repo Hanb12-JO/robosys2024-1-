@@ -10,7 +10,7 @@ This repository was created for the Robosys2024 lecture assignment 1. It contain
 * Reads integers or floating-point numbers from standard input and converts the integer part to binary number.  
 * A simple and clear implementation using basic Python functions.  
 
-## Operating environment
+## Require environment
 
 
 ## How to run the script
