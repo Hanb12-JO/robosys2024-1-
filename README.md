@@ -27,7 +27,7 @@ $ cd robosys2024-assignment1
 175 is an example of an input number. 
 
 ```bash
-$ seq 175 | ./Binary 
+$ seq 175 | ./binary 
 ```
 
 #### 4. The output:
