@@ -19,7 +19,7 @@ This repository was created for the Robosys2024 lecture assignment 1. It contain
 #### 1. Use the following command to clone this repository:
 
 ```bash
-$ git clone git@github.com:Hanb12-JO/robosys2024-assignment1.git  
+$ git clone https://github.com/Hanb12-JO/robosys2024-assignment1.git  
 ```
 
 #### 2. Move to directory:
